@@ -1,2 +1,3 @@
-fullname, email,
-John Doe, JohnDoemail@mail.com,
+fullname, email, title, company,
+John Doe, JohnDoemail@mail.com, Manager, Company A,
+Thomas, Crueillient, Senior Data Engineer, Cloudshuttle,
